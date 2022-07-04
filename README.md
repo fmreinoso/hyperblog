@@ -8,6 +8,8 @@ un blog para el curso de git y github  actual
 * el verdadero amor por las buenas practicas
 * trucos locos del profe.
 
+* creado por el increible platzi team.
+
 
 Y como amble recordatorio: ** Esto es un chiste **
 
