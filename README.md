@@ -10,7 +10,9 @@ un blog para el curso de git y github  actual
 
 * creado por el increible platzi team.
 
+* incluye ejemplos en windows linux y mac.
+* disponible para todas las edades.
 
-Y como amble recordatorio: ** Esto es un chiste **
+Y como amable recordatorio: ** Esto es un chiste **
 
 
