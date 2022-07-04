@@ -9,8 +9,8 @@ un blog para el curso de git y github  actual
 * trucos locos del profe.
 
 * creado por el increible platzi team.
+* incluye ejemplos en windows linux y mac.
 
-
-Y como amble recordatorio: ** Esto es un chiste **
+Y como amable recordatorio: ** Esto es un chiste **
 
 
